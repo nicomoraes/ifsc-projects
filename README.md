@@ -18,5 +18,5 @@ Repositório com projetos desenvolvidos durante o curso de ADS no Instituto Fede
     - Linguagem C
 
 - Programação mobile 
-    - IONIC (REACT)
+    - IONIC (React.js)
 
